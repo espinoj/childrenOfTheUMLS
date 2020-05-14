@@ -1,6 +1,6 @@
 # childrenOfTheUMLS
 
-Use the UMLS API to retrieve "NB" relations of a starting CUI.
+Use the UMLS API to retrieve "RB" relations of a starting CUI.
 
 Usage:
 ```
